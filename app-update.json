@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "2.31",
-  "notes": "更新默认设备资料与路由设备清单，并统一默认数据库的界面名称。",
-  "downloadURL": "https://github.com/igehgh/ditbox_updates/releases/download/v2.31/DITBOX-v2.31.dmg"
+  "version": "2.37",
+  "notes": "路由模拟中非 SDI 连线显示为紫色；悬停 SDI 连线时，其信号链路以蓝色高亮。",
+  "downloadURL": "https://github.com/igehgh/ditbox_updates/releases/download/v2.37/DITBOX-v2.37.dmg"
 }
